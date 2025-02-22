@@ -32,7 +32,7 @@ Python libraries: NLTK for text preprocessing, Matplotlib for visualizations.
 Description: The project trains and compares LSTM and GRU models, implementing techniques like text tokenization, embedding layers, and dropout regularization to achieve high classification accuracy.
 
 
-5. Stock Prediction: Time Series Forecasting with LSTM Models
+4. Stock Prediction: Time Series Forecasting with LSTM Models
    
 Objective: The goal is to predict stock prices and forecast market trends using Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network (RNN) designed for time series data.
 
