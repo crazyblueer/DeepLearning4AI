@@ -1,4 +1,4 @@
-This repository contains key machine learning and deep learning projects that I have done focusing on different tasks such as image processing, natural language processing (NLP), and time series forecasting. 
+This repository contains key machine learning and deep learning projects that I have done in the Deep Learning For AI class focusing on different tasks such as image processing, natural language processing (NLP), and time series forecasting. 
 Below are the details of each project:
 
 Projects
